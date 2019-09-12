@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" name="timetable-ejb:ejb">
+    <output-path>$PROJECT_DIR$/timetable-ejb/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>timetable-ejb</module>
+        <packaging>ejb</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="timetable-ejb.jar">
+      <element id="artifact" artifact-name="timetable-ejb:ejb exploded" />
+    </root>
+  </artifact>
+</component>

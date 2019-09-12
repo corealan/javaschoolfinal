@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/timetable.iml" filepath="$PROJECT_DIR$/timetable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/timetable-ear/timetable-ear.iml" filepath="$PROJECT_DIR$/timetable-ear/timetable-ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/timetable-ejb/timetable-ejb.iml" filepath="$PROJECT_DIR$/timetable-ejb/timetable-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/timetable-web/timetable-web.iml" filepath="$PROJECT_DIR$/timetable-web/timetable-web.iml" />
+    </modules>
+  </component>
+</project>

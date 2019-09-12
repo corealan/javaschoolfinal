@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="lection-ejb-ear:ear">
+    <output-path>$PROJECT_DIR$/lection-ejb-ear/target</output-path>
+    <root id="archive" name="lection-ejb-ear.ear">
+      <element id="artifact" artifact-name="lection-ejb-ear:ear exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,116 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+
+body{
+    background: lightgrey;
+}
+.ui-datatable {
+    width: 650px;
+    border-collapse: collapse;
+    font-family: "Roboto Slab",serif;
+    text-align: center;
+    font-size: 18px;
+
+    }
+
+.ui-datatable .ui-datatable-header {
+    border-bottom: 0 none;
+}
+
+.ui-widget-header {
+    border: none;
+    border-collapse: collapse;
+}
+
+.ui-datatable td, .ui-datatable th {
+    padding: 10px;
+}
+.ui-datatable tr:nth-child(2n) {
+    background: #E5E5E5;
+}
+.ui-panelgrid td
+{
+    border: none;
+}
+
+.ui-datatable th[role=columnheader] {
+    background: #43A047;
+    padding: 10px;
+    color: white;
+    font-family: "Roboto Slab",serif;
+    font-style: normal;
+    font-size: 22px;
+    text-align: center;
+    margin: 0;
+}
+.ui-datatable thead th, .ui-datatable tbody td, .ui-datatable tfoot td, .ui-datatable tfoot th{
+    border: none;
+}
+
+.ui-outputlabel {
+    font-family: "Roboto Slab",serif;
+    text-align: center;
+    position: relative;
+    left: 260px;
+    top: 28px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.ui-widget-content {
+    border: none;
+    color: #4f4f4f;
+}
+.left{
+    float: left;
+    margin: 135px 0px 0px 100px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+.right{
+    float: right;
+    margin: 135px 100px 0px 0px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+.station-select{
+    width: 485px;
+    height: 80px;
+    position: absolute;
+    left: 626px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+.station-select-label{
+    position: relative;
+    left: -248px;
+}
+
+.ui-state-default {
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+}
+
+.ui-state-default{
+    text-shadow: none;
+}
+
+.ui-button {
+    position: relative;
+    left: 125px;
+    background-color: #43A047;
+    color: #ffffff;
+    border: 1px solid #43A047;
+}
+
+.ui-inputfield{
+    margin: 0;
+    outline: medium none;
+    padding: 4px;
+    font-weight: normal;
+    background-color: lightgray;
+}
+
+.ui-autocomplete {
+    position: relative;
+    left: 115px;
+}

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:f="http://xmlns.jcp.org/jsf/core" xmlns:p="http://primefaces.org/ui">
+<f:view transient="true">
+    <h:head>
+        <link href="resources/css/styles.css" rel="stylesheet"/>
+    </h:head>
+    <h:body>
+
+
+        <div class="left">
+            <h:form id="arrForm">
+                <p:dataTable emptyMessage="Нет данных о поездах" id="arr" value="#{timetableController.timetable.arrivalTable}" var="train">
+                    <f:facet name="header">
+                        ПРИБЫТИЕ
+                    </f:facet>
+                    <p:column>
+                        <f:facet name="header">Номер поезда</f:facet>
+                        #{train.number}
+                    </p:column>
+
+                    <p:column>
+                        <f:facet name="header">Станция отрпавления</f:facet>
+                        #{train.departure}
+                    </p:column>
+
+                    <p:column>
+                        <f:facet name="header">Время прибытия</f:facet>
+                        <h:outputText value="#{train.getArrivalTime()}" >
+                            <f:convertDateTime timeZone="#{timetableController.timeZone}" type="time" timeStyle="short" />
+                        </h:outputText>
+                    </p:column>
+                </p:dataTable>
+                <p:poll interval="1" listener="#{timetableController.updateTimetable}" update="arr"/>
+            </h:form>
+        </div>
+
+
+        <div class="right">
+            <h:form id="depForm">
+                <p:dataTable emptyMessage="Нет данных о поездах" styleClass="ui-datatable" id="dep" value="#{timetableController.timetable.departureTable}" var="train">
+                    <f:facet name="header">
+                        ОТПРАВЛЕНИЕ
+                    </f:facet>
+                    <p:column>
+                        <f:facet name="header">Номер поезда</f:facet>
+                        #{train.number}
+                    </p:column>
+
+                    <p:column>
+                        <f:facet name="header">Станция назначения</f:facet>
+                        #{train.destination}
+                    </p:column>
+
+                    <p:column >
+                        <f:facet name="header">Время отправления</f:facet>
+                        <h:outputText value="#{train.getDepartureTime()}" >
+                            <f:convertDateTime timeZone="#{timetableController.timeZone}" type="time" timeStyle="short" />
+                        </h:outputText>
+                    </p:column>
+                </p:dataTable>
+                <p:poll interval="1" listener="#{timetableController.updateTimetable}" update="dep"/>
+            </h:form>
+        </div>
+
+        <div class="station-select">
+            <h:form>
+                <div class="station-select-label">
+                    <p:outputLabel value="Станция:" for="acForce" />
+                </div>
+                <p:autoComplete id="acForce" forceSelection="true" value="#{timetableController.station}" completeMethod="#{timetableController.getStations()}" />
+                <p:commandButton value="Выбрать" action="#{timetableController.findTimetable()}" update="depForm arrForm"/>
+            </h:form>
+        </div>
+
+    </h:body>
+</f:view>
+
+</html>

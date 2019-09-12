@@ -1,0 +1,293 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+
+.login-page {
+    width: 360px;
+    padding: 8% 0 0;
+    margin: auto;
+}
+.allTrains{
+    width: 90%;
+    position: relative;
+    top: 30px;
+    bottom: 30px;
+    margin: auto;
+    border-collapse: collapse;
+    border-left: 3px solid #43A047;
+    border-right: 3px solid #43A047;
+    border-bottom: 3px solid #43A047;
+    font-family: "Lucida Grande", sans-serif;
+    background:lightgrey;
+    overflow: scroll;
+}
+
+#stations-filter label{
+    position: relative;
+    top: -15px;
+}
+#stations-filter{
+    float: right;
+    max-width: 400px;
+    margin: 30px 50px;
+}
+#stations-filter label{
+    font-family: "Roboto Slab",serif;
+    font-size: 18px;
+    text-align: center;
+    margin: auto 30px;
+}
+#stations-filter input{
+    width: 200px;
+}
+.allTrains caption {
+    background: #43A047;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 10px;
+    box-shadow: 0 2px  4px 0 rgba(0,0,0,.3);
+    color: white;
+    font-family: "Roboto Slab",serif;
+    font-style: normal;
+    font-size: 26px;
+    text-align: center;
+    margin: 0;
+}
+.allTrains td, .allTrains th {
+    text-align: center;
+    padding: 10px;
+}
+.allTrains th {
+    text-align: left;
+    font-size: 18px;
+}
+.allTrains tr:nth-child(2n) {
+    background: #E5E5E5;
+}
+.allTrains td:last-of-type {
+    text-align: center;
+}
+.allTrains a {
+    display: inline-block;
+    border: #5c5c5c;
+    color: black;
+    padding: 5px 10px;
+    background: #93939340;
+    box-shadow: 2px 2px 0 0 #5c5c5c;
+    position: relative;
+}
+.allTrains a:hover {
+    box-shadow: none;
+    top: 2px;
+    left: 2px;
+}
+
+#schedule-table{
+    width: 75%;
+    margin: auto;
+}
+#schedule{
+    max-width: 400px;
+    float: left;
+    margin: 30px 50px;
+}
+#schedule label{
+    font-family: "Roboto Slab",serif;
+    font-size: 18px;
+    text-align: center;
+    margin: auto 30px;
+}
+
+#find-train{
+    max-width: 400px;
+    float: right;
+    margin: 30px 50px;
+}
+#find-train caption{
+    font-family: "Roboto Slab",serif;
+    font-style: normal;
+    font-size: 26px;
+    text-align: center;
+    margin: auto 30px;
+}
+
+#route-select-form input{
+    width: 200px;
+    text-align: center;
+}
+
+#route-select{
+    width: 100%;
+}
+
+#complexTable1{
+    visibility: hidden;
+}
+
+.complex-route-table{
+    text-align: center;
+}
+#complex-route-form{
+    max-width: 450px;
+}
+.form {
+    position: relative;
+    z-index: 1;
+    background: #FFFFFF;
+    max-width: 850px;
+    margin: 30px auto auto;
+    padding: 45px;
+    text-align: center;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+.form input {
+    font-family: "Roboto", sans-serif;
+    outline: 0;
+    background: #f2f2f2;
+    border: 0;
+    margin: 0 0 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+.form button {
+    font-family: "Roboto", sans-serif;
+    text-transform: uppercase;
+    outline: 0;
+    background: #4CAF50;
+    width: 100%;
+    border: 0;
+    padding: 15px;
+    color: #FFFFFF;
+    font-size: 14px;
+
+    cursor: pointer;
+}
+.form button:hover,.form button:active,.form button:focus {
+    background: #43A047;
+}
+
+.form .message {
+    margin: 15px 0 0;
+    color: #b3b3b3;
+    font-size: 12px;
+}
+
+#reg-form{
+    width: 350px;
+}
+.form .message a {
+    color: #4CAF50;
+    text-decoration: none;
+}
+body {
+    background: lightgrey; /* fallback for old browsers */
+    font-family: "Roboto", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+table {
+    width: 100%
+}
+
+#route-request table{
+    width: auto;
+}
+#route-request {
+    max-width: 350px;
+}
+.radio{
+    position: relative;
+}
+.route-select-button{
+    position: relative;
+    top: 20px;
+}
+#routes-form{
+    max-width: 700px;
+    text-align: left;
+}
+#routes-form input{
+    position: relative;
+    margin: auto;
+}
+#routes-form h3{
+    text-align: center;
+}
+
+#schedule-form{
+    max-width: 450px;
+    text-align: center;
+}
+#schedule-form td,th{
+    padding: 10px 15px;
+}
+
+#schedule-form label {
+    font-family: "Roboto Slab", serif;
+    font-size: 26px;
+    text-align: center;
+    margin: auto 30px;
+}
+#routes-form td,th{
+    padding: 10px 15px;
+}
+.msg{
+    background-size: 40px 40px;
+    background-image: -moz-linear-gradient(135deg, rgba(255, 255, 255, .05) 25%, transparent 25%,
+    transparent 50%, rgba(255, 255, 255, .05) 50%, rgba(255, 255, 255, .05) 75%,
+    transparent 75%, transparent);
+    background-image: -webkit-linear-gradient(135deg, rgba(255, 255, 255, .05) 25%, transparent 25%,
+    transparent 50%, rgba(255, 255, 255, .05) 50%, rgba(255, 255, 255, .05) 75%,
+    transparent 75%, transparent);
+    background-image: linear-gradient(135deg, rgba(255, 255, 255, .05) 25%, transparent 25%,
+    transparent 50%, rgba(255, 255, 255, .05) 50%, rgba(255, 255, 255, .05) 75%,
+    transparent 75%, transparent);
+    box-shadow: 0 0 8px rgba(0,0,0,.3);
+    font:20px 'Open Sans';
+    font-family: "Roboto", sans-serif;
+    width: 85%;
+    margin: 20px auto;
+    padding:15px;
+    -moz-animation: bg-animate 5s linear infinite;
+    -webkit-animation: bg-animate 5s linear infinite;
+    -ms-animation: bg-animate 5s linear infinite;
+    animation: bg-animate 5s linear infinite;
+}
+
+/* заголовок сообщения */
+.msg span{font-weight:600;}
+
+/* кнопка закрытия */
+.msg #close{float:right; color:inherit; text-decoration:none;}
+
+/* сообщение об ошибке */
+.msg#error{
+    background-color:tomato;
+    border-left:7px #dc3d21 solid;
+    color:white;
+}
+
+/* предупреждение */
+.msg#warning{
+    background-color: #eaaf51;
+    border-left:7px #df8b00 solid;
+    color:#6b6d31;
+}
+
+/* инфо-блок */
+.msg#info{
+    background-color: #4ea5cd;
+    border-left:7px #3b8eb5 solid;
+    color:#beecfc;
+}
+/* успешное событие */
+.msg#success{
+    background-color: #61b832;
+    border-left:7px #55a12c solid;
+    color:#296829;
+}
+.pagination{
+    position: relative;
+    left: 215px;
+    top: 45px;
+}

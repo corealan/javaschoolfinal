@@ -1,0 +1,5 @@
+com\tsystems\javaschool\model\Timetable.class
+com\tsystems\javaschool\data\TimetableStorage.class
+com\tsystems\javaschool\messaging\MessageReceiver.class
+com\tsystems\javaschool\model\TimetableTrain.class
+com\tsystems\javaschool\rest\RestClient.class

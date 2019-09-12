@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SecurityTest:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="71dc1380-5d4d-4a68-b7ea-7b7c87588bc9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="sectest@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="sectest@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="sectest@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="sectest: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="sectest@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="sectest: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="sectest@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="sectest: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="sectest@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="sectest: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="false" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/Java/tools/apache-maven-3.6.1" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PHAY5DB8MUMhnMu1E1jhqI7BzS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567623209700" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/SQL Dialect" value="PostgreSQL" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../timetable" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="security.service.impl" />
+      <recent name="test" />
+      <recent name="security.service" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mralt\Desktop\ПОКАЗ 2\HelloRailRoad\src\main\webapp\resources\img" />
+      <recent name="C:\Users\mralt\Desktop\Показ\src\main\webapp\resources\img" />
+      <recent name="C:\Users\postgre\Desktop\SecurityTest\src\main\webapp\resources\js" />
+      <recent name="C:\Users\postgres\SecurityTest\src\main\webapp\resources\js" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="security.model" />
+      <recent name="security.config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mralt\Desktop\Показ\src\test\java" />
+      <recent name="C:\Users\postgre\Desktop\SecurityTest\src\main\webapp\WEB-INF\views" />
+      <recent name="C:\Users\postgre\Desktop\SecurityTest\src\main\webapp\WEB-INF\views\admin" />
+      <recent name="C:\Users\postgres\SecurityTest\src\main\webapp" />
+      <recent name="C:\Users\postgres\SecurityTest\src\main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat">
+    <configuration name="StationServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HelloRailRoad" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StationServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StationServiceImplTest.getScheduleOnDate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HelloRailRoad" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StationServiceImplTest" />
+      <option name="METHOD_NAME" value="getScheduleOnDate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicketServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HelloRailRoad" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TicketServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicketServiceTest.checkPurchaseConditions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HelloRailRoad" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TicketServiceTest" />
+      <option name="METHOD_NAME" value="checkPurchaseConditions" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrainServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HelloRailRoad" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TrainServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.35" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8081/HelloRailRoad/" />
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <file path="$PROJECT_DIR$/target/HelloRailRoad.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/HelloRailRoad" />
+          </settings>
+        </file>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_SecurityTest_2" />
+        <option name="HTTP_PORT" value="8081" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50609" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.StationServiceImplTest" />
+      <item itemvalue="JUnit.TicketServiceTest" />
+      <item itemvalue="JUnit.TrainServiceImplTest" />
+      <item itemvalue="JUnit.TicketServiceTest.checkPurchaseConditions" />
+      <item itemvalue="JUnit.StationServiceImplTest.getScheduleOnDate" />
+      <item itemvalue="Tomcat Server.Tomcat" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StationServiceImplTest.getScheduleOnDate" />
+        <item itemvalue="JUnit.TrainServiceImplTest" />
+        <item itemvalue="JUnit.TicketServiceTest" />
+        <item itemvalue="JUnit.TicketServiceTest.checkPurchaseConditions" />
+        <item itemvalue="JUnit.StationServiceImplTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71dc1380-5d4d-4a68-b7ea-7b7c87588bc9" name="Default Changelist" comment="" />
+      <created>1563695281392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563695281392</updated>
+      <workItem from="1563695307418" duration="14459000" />
+      <workItem from="1563777091731" duration="17318000" />
+      <workItem from="1563805922841" duration="4250000" />
+      <workItem from="1563865900960" duration="17411000" />
+      <workItem from="1563892794685" duration="441000" />
+      <workItem from="1563954826423" duration="2408000" />
+      <workItem from="1563965416776" duration="9211000" />
+      <workItem from="1564052339451" duration="37820000" />
+      <workItem from="1564339426308" duration="7447000" />
+      <workItem from="1564384647144" duration="14010000" />
+      <workItem from="1564405666614" duration="3694000" />
+      <workItem from="1564470117570" duration="21813000" />
+      <workItem from="1564576810442" duration="17031000" />
+      <workItem from="1564643232886" duration="6975000" />
+      <workItem from="1564651301374" duration="8188000" />
+      <workItem from="1564666693628" duration="4646000" />
+      <workItem from="1564673342691" duration="394000" />
+      <workItem from="1564682111883" duration="727000" />
+      <workItem from="1564685930431" duration="1841000" />
+      <workItem from="1564729958248" duration="5194000" />
+      <workItem from="1564736718504" duration="2391000" />
+      <workItem from="1564744871209" duration="2217000" />
+      <workItem from="1564747130126" duration="205000" />
+      <workItem from="1564747495278" duration="5937000" />
+      <workItem from="1564756401836" duration="307000" />
+      <workItem from="1564756992627" duration="3981000" />
+      <workItem from="1564818207749" duration="2623000" />
+      <workItem from="1564821274104" duration="223000" />
+      <workItem from="1564821623690" duration="601000" />
+      <workItem from="1564822578457" duration="848000" />
+      <workItem from="1564823564556" duration="4665000" />
+      <workItem from="1564833904058" duration="13834000" />
+      <workItem from="1564902885020" duration="351000" />
+      <workItem from="1564904190989" duration="166000" />
+      <workItem from="1564904616524" duration="8013000" />
+      <workItem from="1564915094081" duration="1240000" />
+      <workItem from="1564916526811" duration="2084000" />
+      <workItem from="1564919413428" duration="1280000" />
+      <workItem from="1564920809229" duration="272000" />
+      <workItem from="1564921130567" duration="16863000" />
+      <workItem from="1564990374439" duration="3630000" />
+      <workItem from="1564994625326" duration="7749000" />
+      <workItem from="1565097408482" duration="6403000" />
+      <workItem from="1565104501484" duration="409000" />
+      <workItem from="1565162643125" duration="19478000" />
+      <workItem from="1565198496996" duration="2142000" />
+      <workItem from="1565250916830" duration="650000" />
+      <workItem from="1565252058767" duration="4413000" />
+      <workItem from="1565256946642" duration="6793000" />
+      <workItem from="1565335519763" duration="14663000" />
+      <workItem from="1565361409040" duration="9420000" />
+      <workItem from="1565422685968" duration="1816000" />
+      <workItem from="1565428663892" duration="1218000" />
+      <workItem from="1565430082182" duration="236000" />
+      <workItem from="1565430385792" duration="10885000" />
+      <workItem from="1565443040405" duration="6651000" />
+      <workItem from="1565459120763" duration="1547000" />
+      <workItem from="1565506763932" duration="9338000" />
+      <workItem from="1565520703238" duration="9804000" />
+      <workItem from="1565537317310" duration="6571000" />
+      <workItem from="1565593437889" duration="24333000" />
+      <workItem from="1565696846399" duration="9648000" />
+      <workItem from="1565767733424" duration="26149000" />
+      <workItem from="1565854022151" duration="30513000" />
+      <workItem from="1565939065758" duration="11025000" />
+      <workItem from="1565964528484" duration="5632000" />
+      <workItem from="1566030017858" duration="33791000" />
+      <workItem from="1566113787064" duration="17600000" />
+      <workItem from="1566199271436" duration="12095000" />
+      <workItem from="1566229757638" duration="3695000" />
+      <workItem from="1566304777855" duration="975000" />
+      <workItem from="1566372494752" duration="9729000" />
+      <workItem from="1566383881112" duration="1855000" />
+      <workItem from="1566457931372" duration="1540000" />
+      <workItem from="1566470964297" duration="1105000" />
+      <workItem from="1566474175435" duration="5591000" />
+      <workItem from="1566546274978" duration="145000" />
+      <workItem from="1566546460127" duration="3601000" />
+      <workItem from="1566554423170" duration="1289000" />
+      <workItem from="1566556744406" duration="599000" />
+      <workItem from="1566631511895" duration="7606000" />
+      <workItem from="1566643225847" duration="1214000" />
+      <workItem from="1566644596905" duration="17866000" />
+      <workItem from="1566716024227" duration="1995000" />
+      <workItem from="1566720421729" duration="3246000" />
+      <workItem from="1566744841596" duration="1084000" />
+      <workItem from="1566747158570" duration="1152000" />
+      <workItem from="1566752915110" duration="2030000" />
+      <workItem from="1566802743096" duration="2143000" />
+      <workItem from="1566806374361" duration="4834000" />
+      <workItem from="1566827587961" duration="607000" />
+      <workItem from="1566843223587" duration="1853000" />
+      <workItem from="1566891617348" duration="1089000" />
+      <workItem from="1566892868385" duration="1966000" />
+      <workItem from="1566913788871" duration="1436000" />
+      <workItem from="1566915610328" duration="2368000" />
+      <workItem from="1566976958014" duration="754000" />
+      <workItem from="1566979121287" duration="223000" />
+      <workItem from="1566979877673" duration="2710000" />
+      <workItem from="1566997107454" duration="1444000" />
+      <workItem from="1567065124349" duration="7050000" />
+      <workItem from="1567095587979" duration="3321000" />
+      <workItem from="1567152132081" duration="2400000" />
+      <workItem from="1567155712948" duration="2648000" />
+      <workItem from="1567163952034" duration="3194000" />
+      <workItem from="1567169801059" duration="765000" />
+      <workItem from="1567170848411" duration="703000" />
+      <workItem from="1567171637059" duration="1694000" />
+      <workItem from="1567173691996" duration="536000" />
+      <workItem from="1567238088684" duration="13612000" />
+      <workItem from="1567256877951" duration="287000" />
+      <workItem from="1567257255107" duration="9113000" />
+      <workItem from="1567274455567" duration="492000" />
+      <workItem from="1567323894904" duration="20444000" />
+      <workItem from="1567407311843" duration="6867000" />
+      <workItem from="1567414958270" duration="3524000" />
+      <workItem from="1567420925229" duration="6792000" />
+      <workItem from="1567501567073" duration="1970000" />
+      <workItem from="1567504210129" duration="443000" />
+      <workItem from="1567505379493" duration="340000" />
+      <workItem from="1567505888041" duration="4627000" />
+      <workItem from="1567514842192" duration="6661000" />
+      <workItem from="1567580599704" duration="2248000" />
+      <workItem from="1567585849081" duration="13476000" />
+      <workItem from="1567671149021" duration="2257000" />
+      <workItem from="1567678335491" duration="13236000" />
+      <workItem from="1567712916851" duration="613000" />
+      <workItem from="1567758586674" duration="449000" />
+      <workItem from="1567845308817" duration="18534000" />
+      <workItem from="1567929163995" duration="37461000" />
+      <workItem from="1568052123428" duration="1322000" />
+      <workItem from="1568100055020" duration="18721000" />
+      <workItem from="1568137919237" duration="60000" />
+      <workItem from="1568138012053" duration="22000" />
+      <workItem from="1568144059887" duration="1140000" />
+      <workItem from="1568190186296" duration="1063000" />
+      <workItem from="1568191581144" duration="54000" />
+      <workItem from="1568193820794" duration="1772000" />
+      <workItem from="1568195643464" duration="1792000" />
+      <workItem from="1568197471935" duration="1108000" />
+      <workItem from="1568198995809" duration="242000" />
+      <workItem from="1568202748077" duration="1731000" />
+      <workItem from="1568205044560" duration="1117000" />
+      <workItem from="1568207338246" duration="1688000" />
+      <workItem from="1568209257092" duration="679000" />
+      <workItem from="1568217855766" duration="1322000" />
+      <workItem from="1568269767226" duration="1538000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="StationServiceImplTest_getScheduleOnDate - 2019.09.04 at 11h 34m 20s.xml">
+      <configuration name="StationServiceImplTest.getScheduleOnDate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StationServiceImplTest_getScheduleOnDate - 2019.09.04 at 11h 35m 11s.xml">
+      <configuration name="StationServiceImplTest.getScheduleOnDate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StationServiceImplTest_getScheduleOnDate - 2019.09.04 at 11h 35m 40s.xml">
+      <configuration name="StationServiceImplTest.getScheduleOnDate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StationServiceImplTest_getScheduleOnDate - 2019.09.04 at 11h 36m 00s.xml">
+      <configuration name="StationServiceImplTest.getScheduleOnDate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StationServiceImplTest_getScheduleOnDate - 2019.09.04 at 11h 36m 44s.xml">
+      <configuration name="StationServiceImplTest.getScheduleOnDate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StationServiceImplTest_getScheduleOnDate - 2019.09.04 at 11h 41m 21s.xml">
+      <configuration name="StationServiceImplTest.getScheduleOnDate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StationServiceImplTest_getScheduleOnDate - 2019.09.04 at 11h 43m 29s.xml">
+      <configuration name="StationServiceImplTest.getScheduleOnDate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StationServiceImplTest_getScheduleOnDate - 2019.09.04 at 11h 43m 41s.xml">
+      <configuration name="StationServiceImplTest.getScheduleOnDate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StationServiceImplTest_getScheduleOnDate - 2019.09.04 at 11h 44m 37s.xml">
+      <configuration name="StationServiceImplTest.getScheduleOnDate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StationServiceImplTest_getScheduleOnDate - 2019.09.04 at 11h 44m 57s.xml">
+      <configuration name="StationServiceImplTest.getScheduleOnDate" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>

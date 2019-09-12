@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="timetable-ear:ear">
+    <output-path>$PROJECT_DIR$/timetable-ear/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>timetable-ear</module>
+        <packaging>ear</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="timetable-ear.ear">
+      <element id="artifact" artifact-name="timetable-ear:ear exploded" />
+    </root>
+  </artifact>
+</component>
