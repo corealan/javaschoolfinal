@@ -3,7 +3,6 @@ package com.tsystems.javaschool.rest;
 import com.tsystems.javaschool.model.Timetable;
 
 import javax.enterprise.context.RequestScoped;
-import javax.ws.rs.ProcessingException;
 import javax.ws.rs.client.Client;
 import javax.ws.rs.client.ClientBuilder;
 import javax.ws.rs.client.WebTarget;

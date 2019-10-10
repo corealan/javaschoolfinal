@@ -6,7 +6,20 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71dc1380-5d4d-4a68-b7ea-7b7c87588bc9" name="Default Changelist" comment="" />
+    <list default="true" id="71dc1380-5d4d-4a68-b7ea-7b7c87588bc9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../TSD.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../TSD.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../timetable/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../timetable/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../timetable/timetable-ear/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../timetable/timetable-ear/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../timetable/timetable-ear/target/timetable-ear.ear" beforeDir="false" afterPath="$PROJECT_DIR$/../timetable/timetable-ear/target/timetable-ear.ear" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../timetable/timetable-ear/target/timetable-ear/timetable-ejb.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../timetable/timetable-ear/target/timetable-ear/timetable-ejb.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../timetable/timetable-ear/target/timetable-ear/timetable-web.war" beforeDir="false" afterPath="$PROJECT_DIR$/../timetable/timetable-ear/target/timetable-ear/timetable-web.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../timetable/timetable-ejb/src/main/java/com/tsystems/javaschool/rest/RestClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../timetable/timetable-ejb/src/main/java/com/tsystems/javaschool/rest/RestClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../timetable/timetable-ejb/target/classes/com/tsystems/javaschool/rest/RestClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../timetable/timetable-ejb/target/classes/com/tsystems/javaschool/rest/RestClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../timetable/timetable-ejb/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../timetable/timetable-ejb/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../timetable/timetable-ejb/target/timetable-ejb.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../timetable/timetable-ejb/target/timetable-ejb.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../timetable/timetable-web/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../timetable/timetable-web/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../timetable/timetable-web/target/timetable-web.war" beforeDir="false" afterPath="$PROJECT_DIR$/../timetable/timetable-web/target/timetable-web.war" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +94,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -116,6 +129,7 @@
     <property name="create.test.in.the.same.root" value="true" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="extract.method.default.visibility" value="private" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../timetable" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -125,7 +139,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -472,6 +486,13 @@
       <workItem from="1568209257092" duration="679000" />
       <workItem from="1568217855766" duration="1322000" />
       <workItem from="1568269767226" duration="1538000" />
+      <workItem from="1568273369063" duration="210000" />
+      <workItem from="1568276559125" duration="364000" />
+      <workItem from="1568276979515" duration="878000" />
+      <workItem from="1568293391520" duration="253000" />
+      <workItem from="1568293682420" duration="113000" />
+      <workItem from="1568294383703" duration="687000" />
+      <workItem from="1568295099215" duration="1365000" />
     </task>
     <servers />
   </component>
@@ -527,6 +548,19 @@
         <option value="3" />
         <option value="1" />
       </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
     </option>
   </component>
   <component name="antWorkspaceConfiguration">
