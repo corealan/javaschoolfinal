@@ -44,7 +44,7 @@
         <dependency>
             <groupId>org.jboss.resteasy</groupId>
             <artifactId>resteasy-client</artifactId>
-            <version>4.2.0.Final</version>
+            <version>4.5.7.Final</version>
         </dependency>
 
         <!-- Declare the APIs we depend on and need for compilation. All of 
